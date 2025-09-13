@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Chicken Butt Cars - Episode 1</title>
+  <style>
+    body {
+      font-family: 'Comic Sans MS', cursive, sans-serif;
+      background-color: #fff8dc;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+    header {
+      background-color: #ffcc00;
+      text-align: center;
+      padding: 2rem;
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      color: #d62828;
+      text-shadow: 2px 2px #fff;
+    }
+    section {
+      padding: 2rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #2a9d8f;
+    }
+    p {
+      font-size: 1.2rem;
+      color: #333;
+    }
+    .nav {
+      text-align: center;
+      margin-top: 2rem;
+    }
+    .nav a {
+      background: #2a9d8f;
+      color: white;
+      padding: 0.8rem 1.5rem;
+      text-decoration: none;
+      border-radius: 8px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    }
+    .nav a:hover {
+      background: #21867a;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Episode 1: Barnyard Burnout</h1>
+    <p>The wild first race of Cluck Diesel!</p>
+  </header>
+
+  <section>
+    <h2>Opening Scene</h2>
+    <p>
+      🎵 The theme song kicks in while the title “Chicken Butt Cars” slams across the screen in corn-yellow letters. 
+      Cluck Diesel zooms past the screen, leaving feathers and dust.
+    </p>
+
+    <h2>The Barnyard Track</h2>
+    <p>
+      The camera pans over a dusty barn. Tractors are parked, hay bales stacked. 
+      Cluck Diesel revs up, feathers shaking, his tail spoiler gleaming. 
+      Other chickens watch nervously: “Cluck… are you sure this track is safe?” 
+      Cluck Diesel: <em>“Safe? No. Fun? Absolutely.”</em>
+    </p>
+
+    <h2>The First Race</h2>
+    <p>
+      Cluck Diesel lines up against <strong>Grease Beak</strong>, a scrappy rival with oil-stained feathers. 
+      A pig waves the checkered flag with its curly tail. 
+      “3…2…1…CLUCK!” 🏁 They’re off!
+    </p>
+
+    <h2>Chaos in the Cornfield</h2>
+    <p>
+      They blast out of the barn and into the cornfield. Chickens dodge tractors, jump over irrigation pipes, 
+      and get splashed clean by sprinklers. Cluck Diesel pulls a <strong>mirror flip</strong> off a hay bale ramp — 
+      the crowd goes wild!
+    </p>
+
+    <h2>The Finish</h2>
+    <p>
+      At the last second, Grease Beak spins out into a haystack. 
+      Cluck Diesel skids across the finish line, feathers smoking like burnt tires. 
+      The crowd cheers: “CLUCK! CLUCK! CLUCK!”  
+      Cluck Diesel, calm and cool: <em>“Fueled by corn, powered by chaos.”</em>
+    </p>
+
+    <h2>Closing Scene</h2>
+    <p>
+      A “Next Time On Chicken Butt Cars” teaser shows new racers arriving in the barnyard. 
+      The adventure has just begun.
+    </p>
+
+    <div class="nav">
+      <a href="index.html">⬅ Back to Home</a>
+    </div>
+  </section>
+</body>
+</html>
